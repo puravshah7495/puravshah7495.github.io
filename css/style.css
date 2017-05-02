@@ -999,6 +999,8 @@ a.lightbox img:hover {
 	opacity: 0;
 	-moz-opacity: 0;
 	filter: alpha(opacity=0);
+	color: #00bdbd;
+	font-weight: bold;
 }
 /*-- //to-top --*/
 /*--responsive--*/
